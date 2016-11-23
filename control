@@ -1,0 +1,10 @@
+Package: com.naken.unconfirmed
+Name: Unconfirmed
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adidas Unconfirmed.
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com
